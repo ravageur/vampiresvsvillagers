@@ -1,0 +1,11 @@
+name: VampiresVSVillagers
+main: fr.ravageur.vampiresvsvillagers.VampiresVSVillagers
+version: 1.0
+description: Ce plugin permet de faire un uhc avec des rôles.
+api-version: 1.16
+author: ravageur
+depend: [ ProtocolLib ]
+commands:
+  vvp:
+    description: Permet d'éxécuter n'importe quel commande du plugin Vampires VS Villagers
+    usage: /vvp arguments
